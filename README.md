@@ -113,4 +113,4 @@ See the [LICENSE](https://github.com/facebookresearch/llama/blob/main/LICENSE) f
 ## References
 
 1. [Code Llama Research Paper](https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code/)
-2. [TODO Code Llama Technical overview](TODO)
+2. [Code Llama Blog Post](https://ai.meta.com/blog/code-llama-large-language-model-coding/)
